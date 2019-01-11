@@ -1,0 +1,1 @@
+@%~dp0hive.cmd --service beeline %*
